@@ -86,7 +86,7 @@
     letter-spacing: 50px;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1300px) {
     .hero {
         height: 50vh;
 /*        padding: 60px 0px;*/
