@@ -197,6 +197,7 @@
 
 @media screen and (max-width: 1300px) {
     .sec2 {
+        padding: 40px 0px;
         height: auto;
         font-size: 30px;
     }
