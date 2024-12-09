@@ -88,12 +88,8 @@
 
 @media screen and (max-width: 1300px) {
     .hero {
-        height: 50vh;
+        height: auto;
         padding: 50px 0px;
-    }
-    .sec2 {
-        height: 50vh;
-        font-size: 30px;
     }
 }
 
@@ -201,7 +197,7 @@
 
 @media screen and (max-width: 1300px) {
     .sec2 {
-        height: 50vh;
+        height: auto;
         font-size: 30px;
     }
 }
