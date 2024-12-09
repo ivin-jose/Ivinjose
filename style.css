@@ -199,6 +199,13 @@
     }
 }
 
+@media screen and (max-width: 1300px) {
+    .sec2 {
+        height: 50vh;
+        font-size: 30px;
+    }
+}
+
 /* section 3 */
 
 .sec3 {
