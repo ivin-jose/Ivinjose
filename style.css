@@ -89,7 +89,7 @@
 @media screen and (max-width: 1300px) {
     .hero {
         height: 50vh;
-        padding: 50px 0px;
+        padding: 140px 0px;
     }
 }
 
@@ -178,11 +178,7 @@
     }
 }
 
-@media screen and (max-width: 770px) {
-    .sub1-sec2  {
-       width: 100%;
-    }
-}
+
 
 @media screen and (max-width: 700px) {
     .sec2 {
@@ -200,6 +196,12 @@
         height: auto;
         display: flex;
         flex-direction: column;;
+    }
+    .sub1-sec2  {
+       width: 100%;
+    }
+    .sub1-sec2 p {
+        font-size: x-large
     }
 }
 
