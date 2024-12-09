@@ -197,7 +197,7 @@
 
 @media screen and (max-width: 1300px) {
     .sec2 {
-        height: 50vh;
+        height: auto;
         display: flex;
         flex-direction: column;;
     }
