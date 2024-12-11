@@ -355,12 +355,14 @@
 }
 
 .project-content-sub {
+    height: 350px;
     background: #495057;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
     border-radius: 7px;
+    justify-content: center;
 }
 
 .project-content-sub h1 {
@@ -374,6 +376,13 @@
     text-align: justify
 }
 
+
+@media screen and (max-width: 500px) {
+
+    .project-content-sub {
+        height: 400px;
+    }
+}
 
 /*-----------------------------------------------*/
 
