@@ -224,7 +224,7 @@ h1.heading.pink:after {
   color: #fff;
   border-radius: 5px;
   font-weight: 300;
-  min-height: 400px;
+  height: 550px;
 }
 .testimonial-box h1 {
   font-family: 'Montserrat', sans-serif;
@@ -437,7 +437,7 @@ ul.main-nav li {
 ul.main-nav li a {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   text-transform: uppercase;
   padding: 5px 15px;
 }
@@ -546,7 +546,9 @@ ul.main-nav.show-it {
 
 
 
-
+/*--------------------------------------------------------------
+# Re Editing
+--------------------------------------------------------------*/
 
 .hero-text {
   color: teal;
@@ -632,3 +634,25 @@ ul.main-nav.show-it {
   background: white;
   border: 2px solid blue;
 }
+
+.hero-page {
+  height: 100vh;
+  height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper-slide {
+  height: auto !important;
+}
+
+.sub-p {
+      text-align: justify;
+    font-size: 14px;
+}
+
+/*--------------------------------------------------------------*/
+/* Hide toggle and always show nav on desktop */
+/*--------------------------------------------------------------*/
+
+
